@@ -101,7 +101,7 @@ by a manager before vendor orders are dispatched.
 4. Sets delivery date
 5. Confirms — order dispatched to vendor
 
-### Vendor Alert System (100% Free)
+### Vendor Alert System 
 - **Email** — Full HTML order with attached CSV via Gmail SMTP
 - **SMS** — Simulated in production format (Twilio-ready)
 - **AI Voice** — Real `.mp3` generated via Google Text-to-Speech (gTTS)
@@ -269,8 +269,3 @@ python3 alert_system.py 1 2025-07-01
 - Email automation (SMTP)
 - Data Visualisation (Matplotlib)
 
----
-
-## 📄 License
-
-MIT License — free to use and modify.
