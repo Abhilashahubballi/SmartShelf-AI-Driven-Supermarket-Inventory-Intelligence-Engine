@@ -1,0 +1,10 @@
+vendor_id,name,phone,email,categories,reliability_score,avg_delivery_days
+1,AgroSupplies,+91 9811234567,agro@supplies.com,"Grains,Pulses",4.5,2
+2,DalTraders,+91 9822345678,dal@traders.com,Pulses,4.2,3
+3,OilMart,+91 9833456789,oil@mart.com,Oils,4.0,2
+4,MilkFresh,+91 9844567890,milk@fresh.com,Dairy,4.8,1
+5,FarmFresh,+91 9855678901,farm@fresh.com,Vegetables,4.3,1
+6,SweetSupplies,+91 9866789012,sweet@supplies.com,Condiments,4.1,3
+7,SpiceWorld,+91 9877890123,spice@world.com,Spices,4.6,2
+8,PoultryFarm,+91 9888901234,poultry@farm.com,Poultry,4.4,1
+9,BakeryHub,+91 9899012345,bakery@hub.com,Bakery,4.7,1

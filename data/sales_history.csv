@@ -1,0 +1,181 @@
+item_id,item_name,category,week,price,sales
+1,Basmati Rice,Grains,1,85.0,34
+1,Basmati Rice,Grains,2,85.0,34
+1,Basmati Rice,Grains,3,85.0,37
+1,Basmati Rice,Grains,4,85.0,39
+1,Basmati Rice,Grains,5,85.0,32
+1,Basmati Rice,Grains,6,85.0,29
+1,Basmati Rice,Grains,7,85.0,31
+1,Basmati Rice,Grains,8,85.0,27
+1,Basmati Rice,Grains,9,85.0,22
+1,Basmati Rice,Grains,10,85.0,26
+1,Basmati Rice,Grains,11,85.0,25
+1,Basmati Rice,Grains,12,85.0,28
+2,Whole Wheat Flour,Grains,1,45.0,20
+2,Whole Wheat Flour,Grains,2,45.0,17
+2,Whole Wheat Flour,Grains,3,45.0,18
+2,Whole Wheat Flour,Grains,4,45.0,20
+2,Whole Wheat Flour,Grains,5,45.0,17
+2,Whole Wheat Flour,Grains,6,45.0,18
+2,Whole Wheat Flour,Grains,7,45.0,14
+2,Whole Wheat Flour,Grains,8,45.0,12
+2,Whole Wheat Flour,Grains,9,45.0,17
+2,Whole Wheat Flour,Grains,10,45.0,14
+2,Whole Wheat Flour,Grains,11,45.0,16
+2,Whole Wheat Flour,Grains,12,45.0,15
+3,Toor Dal,Pulses,1,120.0,15
+3,Toor Dal,Pulses,2,120.0,17
+3,Toor Dal,Pulses,3,120.0,16
+3,Toor Dal,Pulses,4,120.0,18
+3,Toor Dal,Pulses,5,120.0,15
+3,Toor Dal,Pulses,6,120.0,14
+3,Toor Dal,Pulses,7,120.0,12
+3,Toor Dal,Pulses,8,120.0,15
+3,Toor Dal,Pulses,9,120.0,11
+3,Toor Dal,Pulses,10,120.0,10
+3,Toor Dal,Pulses,11,120.0,14
+3,Toor Dal,Pulses,12,120.0,13
+4,Sunflower Oil,Oils,1,180.0,10
+4,Sunflower Oil,Oils,2,180.0,8
+4,Sunflower Oil,Oils,3,180.0,9
+4,Sunflower Oil,Oils,4,180.0,10
+4,Sunflower Oil,Oils,5,180.0,10
+4,Sunflower Oil,Oils,6,180.0,9
+4,Sunflower Oil,Oils,7,180.0,7
+4,Sunflower Oil,Oils,8,180.0,7
+4,Sunflower Oil,Oils,9,180.0,5
+4,Sunflower Oil,Oils,10,180.0,6
+4,Sunflower Oil,Oils,11,180.0,7
+4,Sunflower Oil,Oils,12,180.0,9
+5,Full Cream Milk,Dairy,1,28.0,34
+5,Full Cream Milk,Dairy,2,28.0,29
+5,Full Cream Milk,Dairy,3,28.0,36
+5,Full Cream Milk,Dairy,4,28.0,34
+5,Full Cream Milk,Dairy,5,28.0,30
+5,Full Cream Milk,Dairy,6,28.0,31
+5,Full Cream Milk,Dairy,7,28.0,30
+5,Full Cream Milk,Dairy,8,28.0,27
+5,Full Cream Milk,Dairy,9,28.0,21
+5,Full Cream Milk,Dairy,10,28.0,23
+5,Full Cream Milk,Dairy,11,28.0,27
+5,Full Cream Milk,Dairy,12,28.0,32
+6,Butter,Dairy,1,55.0,6
+6,Butter,Dairy,2,55.0,6
+6,Butter,Dairy,3,55.0,6
+6,Butter,Dairy,4,55.0,6
+6,Butter,Dairy,5,55.0,7
+6,Butter,Dairy,6,55.0,6
+6,Butter,Dairy,7,55.0,5
+6,Butter,Dairy,8,55.0,5
+6,Butter,Dairy,9,55.0,5
+6,Butter,Dairy,10,55.0,4
+6,Butter,Dairy,11,55.0,5
+6,Butter,Dairy,12,55.0,6
+7,Tomatoes,Vegetables,1,30.0,19
+7,Tomatoes,Vegetables,2,30.0,23
+7,Tomatoes,Vegetables,3,30.0,16
+7,Tomatoes,Vegetables,4,30.0,22
+7,Tomatoes,Vegetables,5,30.0,19
+7,Tomatoes,Vegetables,6,30.0,17
+7,Tomatoes,Vegetables,7,30.0,16
+7,Tomatoes,Vegetables,8,30.0,11
+7,Tomatoes,Vegetables,9,30.0,14
+7,Tomatoes,Vegetables,10,30.0,15
+7,Tomatoes,Vegetables,11,30.0,18
+7,Tomatoes,Vegetables,12,30.0,17
+8,Onions,Vegetables,1,25.0,15
+8,Onions,Vegetables,2,25.0,16
+8,Onions,Vegetables,3,25.0,19
+8,Onions,Vegetables,4,25.0,18
+8,Onions,Vegetables,5,25.0,15
+8,Onions,Vegetables,6,25.0,15
+8,Onions,Vegetables,7,25.0,13
+8,Onions,Vegetables,8,25.0,13
+8,Onions,Vegetables,9,25.0,10
+8,Onions,Vegetables,10,25.0,11
+8,Onions,Vegetables,11,25.0,12
+8,Onions,Vegetables,12,25.0,12
+9,Potatoes,Vegetables,1,20.0,20
+9,Potatoes,Vegetables,2,20.0,21
+9,Potatoes,Vegetables,3,20.0,21
+9,Potatoes,Vegetables,4,20.0,20
+9,Potatoes,Vegetables,5,20.0,17
+9,Potatoes,Vegetables,6,20.0,17
+9,Potatoes,Vegetables,7,20.0,15
+9,Potatoes,Vegetables,8,20.0,13
+9,Potatoes,Vegetables,9,20.0,14
+9,Potatoes,Vegetables,10,20.0,15
+9,Potatoes,Vegetables,11,20.0,19
+9,Potatoes,Vegetables,12,20.0,18
+10,Sugar,Condiments,1,42.0,13
+10,Sugar,Condiments,2,42.0,13
+10,Sugar,Condiments,3,42.0,12
+10,Sugar,Condiments,4,42.0,14
+10,Sugar,Condiments,5,42.0,13
+10,Sugar,Condiments,6,42.0,14
+10,Sugar,Condiments,7,42.0,10
+10,Sugar,Condiments,8,42.0,10
+10,Sugar,Condiments,9,42.0,9
+10,Sugar,Condiments,10,42.0,8
+10,Sugar,Condiments,11,42.0,12
+10,Sugar,Condiments,12,42.0,12
+11,Salt,Condiments,1,18.0,14
+11,Salt,Condiments,2,18.0,12
+11,Salt,Condiments,3,18.0,16
+11,Salt,Condiments,4,18.0,12
+11,Salt,Condiments,5,18.0,13
+11,Salt,Condiments,6,18.0,14
+11,Salt,Condiments,7,18.0,9
+11,Salt,Condiments,8,18.0,9
+11,Salt,Condiments,9,18.0,9
+11,Salt,Condiments,10,18.0,9
+11,Salt,Condiments,11,18.0,8
+11,Salt,Condiments,12,18.0,12
+12,Turmeric Powder,Spices,1,65.0,5
+12,Turmeric Powder,Spices,2,65.0,7
+12,Turmeric Powder,Spices,3,65.0,6
+12,Turmeric Powder,Spices,4,65.0,7
+12,Turmeric Powder,Spices,5,65.0,6
+12,Turmeric Powder,Spices,6,65.0,5
+12,Turmeric Powder,Spices,7,65.0,5
+12,Turmeric Powder,Spices,8,65.0,4
+12,Turmeric Powder,Spices,9,65.0,4
+12,Turmeric Powder,Spices,10,65.0,5
+12,Turmeric Powder,Spices,11,65.0,4
+12,Turmeric Powder,Spices,12,65.0,6
+13,Coriander Powder,Spices,1,55.0,6
+13,Coriander Powder,Spices,2,55.0,7
+13,Coriander Powder,Spices,3,55.0,6
+13,Coriander Powder,Spices,4,55.0,6
+13,Coriander Powder,Spices,5,55.0,6
+13,Coriander Powder,Spices,6,55.0,6
+13,Coriander Powder,Spices,7,55.0,5
+13,Coriander Powder,Spices,8,55.0,5
+13,Coriander Powder,Spices,9,55.0,4
+13,Coriander Powder,Spices,10,55.0,5
+13,Coriander Powder,Spices,11,55.0,5
+13,Coriander Powder,Spices,12,55.0,5
+14,Eggs (tray/30),Poultry,1,180.0,7
+14,Eggs (tray/30),Poultry,2,180.0,7
+14,Eggs (tray/30),Poultry,3,180.0,6
+14,Eggs (tray/30),Poultry,4,180.0,7
+14,Eggs (tray/30),Poultry,5,180.0,6
+14,Eggs (tray/30),Poultry,6,180.0,6
+14,Eggs (tray/30),Poultry,7,180.0,6
+14,Eggs (tray/30),Poultry,8,180.0,4
+14,Eggs (tray/30),Poultry,9,180.0,5
+14,Eggs (tray/30),Poultry,10,180.0,5
+14,Eggs (tray/30),Poultry,11,180.0,5
+14,Eggs (tray/30),Poultry,12,180.0,7
+15,Bread,Bakery,1,40.0,9
+15,Bread,Bakery,2,40.0,9
+15,Bread,Bakery,3,40.0,9
+15,Bread,Bakery,4,40.0,9
+15,Bread,Bakery,5,40.0,9
+15,Bread,Bakery,6,40.0,9
+15,Bread,Bakery,7,40.0,8
+15,Bread,Bakery,8,40.0,8
+15,Bread,Bakery,9,40.0,7
+15,Bread,Bakery,10,40.0,8
+15,Bread,Bakery,11,40.0,7
+15,Bread,Bakery,12,40.0,11

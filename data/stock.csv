@@ -1,0 +1,16 @@
+id,name,category,quantity,price,low_stock_threshold,expiry_date,supplier,reorder_qty
+1,Basmati Rice,Grains,45,85.00,10,2025-12-01,AgroSupplies,50
+2,Whole Wheat Flour,Grains,3,45.00,5,2025-08-15,AgroSupplies,30
+3,Toor Dal,Pulses,12,120.00,8,2025-11-20,DalTraders,25
+4,Sunflower Oil,Oils,2,180.00,5,2026-03-10,OilMart,15
+5,Full Cream Milk,Dairy,8,28.00,10,2025-06-18,MilkFresh,50
+6,Butter,Dairy,1,55.00,3,2025-06-20,MilkFresh,10
+7,Tomatoes,Vegetables,20,30.00,10,2025-06-15,FarmFresh,30
+8,Onions,Vegetables,4,25.00,8,2025-07-01,FarmFresh,25
+9,Potatoes,Vegetables,35,20.00,10,2025-07-15,FarmFresh,30
+10,Sugar,Condiments,6,42.00,5,2026-01-01,SweetSupplies,20
+11,Salt,Condiments,50,18.00,10,2026-06-01,SweetSupplies,20
+12,Turmeric Powder,Spices,2,65.00,3,2025-10-01,SpiceWorld,10
+13,Coriander Powder,Spices,7,55.00,3,2025-10-15,SpiceWorld,10
+14,Eggs (tray/30),Poultry,5,180.00,4,2025-06-17,PoultryFarm,10
+15,Bread,Bakery,3,40.00,5,2025-06-14,BakeryHub,15

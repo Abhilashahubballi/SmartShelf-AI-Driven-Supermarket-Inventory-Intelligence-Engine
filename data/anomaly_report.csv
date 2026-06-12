@@ -1,0 +1,16 @@
+id,name,category,quantity,anomaly_label
+1,Basmati Rice,Grains,45,ANOMALY
+2,Whole Wheat Flour,Grains,3,NORMAL
+3,Toor Dal,Pulses,12,NORMAL
+4,Sunflower Oil,Oils,2,NORMAL
+5,Full Cream Milk,Dairy,8,NORMAL
+6,Butter,Dairy,1,NORMAL
+7,Tomatoes,Vegetables,20,NORMAL
+8,Onions,Vegetables,4,NORMAL
+9,Potatoes,Vegetables,35,NORMAL
+10,Sugar,Condiments,6,NORMAL
+11,Salt,Condiments,50,ANOMALY
+12,Turmeric Powder,Spices,2,NORMAL
+13,Coriander Powder,Spices,7,NORMAL
+14,Eggs (tray/30),Poultry,5,NORMAL
+15,Bread,Bakery,3,NORMAL

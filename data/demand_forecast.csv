@@ -1,0 +1,16 @@
+item_id,item_name,category,predicted_demand
+1,Basmati Rice,Grains,19
+2,Whole Wheat Flour,Grains,20
+3,Toor Dal,Pulses,14
+4,Sunflower Oil,Oils,10
+5,Full Cream Milk,Dairy,17
+6,Butter,Dairy,15
+7,Tomatoes,Vegetables,13
+8,Onions,Vegetables,12
+9,Potatoes,Vegetables,11
+10,Sugar,Condiments,10
+11,Salt,Condiments,10
+12,Turmeric Powder,Spices,5
+13,Coriander Powder,Spices,5
+14,Eggs (tray/30),Poultry,1
+15,Bread,Bakery,4
